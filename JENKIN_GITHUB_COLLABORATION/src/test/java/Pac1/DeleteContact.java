@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class DeleteContact 
 {
 	@Test
-	public void sample_delete()
+	public void sample_Contact_delete()
 	{
 		System.out.println("execute DeleteContact");
 	}
