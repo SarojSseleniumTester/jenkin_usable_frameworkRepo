@@ -4,7 +4,9 @@
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="Pac1.ContactTest" />
+			<class name="Pac1.DeleteContactTest" />
 			<class name="Pac2.OrgTest" />
+			<class name="Pac2.Delete_OrgTest" />
 
 		</classes>
 	</test> <!-- Test -->
